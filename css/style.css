@@ -107,7 +107,7 @@ body::before {
     transform: scale(1);
   }
   50% {
-    background-color: #851688;
+    background-color: #b82fbd;
     transform: scale(1.2);
     opacity: 1;
   }
